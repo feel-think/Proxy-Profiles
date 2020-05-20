@@ -1,0 +1,10 @@
+# (Custom)
+# 
+# > Notion
+DOMAIN-SUFFIX,loggly.com,Custom
+DOMAIN-SUFFIX,segment.com,Custom
+DOMAIN-SUFFIX,intercom.io,Custom
+DOMAIN-SUFFIX,intercomcdn.com,Custom
+DOMAIN-SUFFIX,amplitude.com,Custom
+DOMAIN-SUFFIX,notion.so,Custom
+DOMAIN-SUFFIX,amazonaws.com,Custom
